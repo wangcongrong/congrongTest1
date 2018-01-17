@@ -19,6 +19,7 @@
     
     NSLog(@"第一次更改");
     NSLog(@"第二次修改");
+    NSLog(@"第三次修改");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
